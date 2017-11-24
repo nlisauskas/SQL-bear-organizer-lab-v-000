@@ -1,4 +1,4 @@
-INSERT INTO bears ("Mr. Chocolate", 22, "M", "Red", "Happy", TRUE);
+INSERT INTO bears (name, age, gender, color, temperament, alive) values ("Mr. Chocolate", 22, "M", "Red", "Happy", TRUE);
 INSERT INTO bears ("Rowdy", 22, "M", "Red", "Happy", TRUE);
 INSERT INTO bears ("Tabitha", 22, "M", "Red", "Happy", TRUE);
 INSERT INTO bears ("Sergeant Brown", 22, "M", "Red", "Happy", TRUE);
